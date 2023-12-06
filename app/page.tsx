@@ -3,6 +3,7 @@ import Education from "@/components/Education";
 import Experience from "@/components/Experience";
 import Header from "@/components/Header";
 import HorizontalLine from "@/components/HorizontalLine";
+import Skills from "@/components/Skills";
 
 const Homepage = () => {
   return (
@@ -14,6 +15,8 @@ const Homepage = () => {
       <Experience />
       <HorizontalLine />
       <Education />
+      <HorizontalLine />
+      <Skills />
       <HorizontalLine />
     </main >
   )
