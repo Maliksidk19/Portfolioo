@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #151c2c;
+  --bgSoft: #1f2b45;
+  --text: white;
+  --textSoft: #b7bac1;
+}
+
+html,
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  max-width: 100%;
+  padding: 2rem 0;
+}
