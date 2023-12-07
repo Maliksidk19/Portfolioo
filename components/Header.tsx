@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Header = () => {
   return (
-    <div className="flex gap-10 w-100 items-center">
+    <div className="flex gap-10 w-[85%] mx-auto items-center">
       <Image src="/logo.svg" width={250} height={100} alt="logo" className="flex-none border-4 border-teal-700 rounded-full object-cover" />
       <div className="flex flex-col gap-5 flex-1">
         <span className="text-6xl">Muhammad Saad</span>
