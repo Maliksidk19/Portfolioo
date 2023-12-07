@@ -41,6 +41,20 @@ const Achievements = () => {
                         <h3 className="text-xl text-teal-700">Coursera - Course</h3>
                     </section>
                 </Link>
+                <Link href="https://www.credly.com/badges/900b9da9-2803-42e6-94b8-6a7f214896fc/public_url" target="_blank" className="flex gap-6">
+                    <Image src="/python-essentials-1.png" alt="Full Stack Certificate" width={100} height={100} />
+                    <section>
+                        <h2 className="text-2xl">Python Essential 1</h2>
+                        <h3 className="text-xl text-teal-700">Cisco - Course</h3>
+                    </section>
+                </Link>
+                <Link href="https://www.credly.com/badges/b4c0ff88-28d1-4631-81b6-e33947916b6e/public_url" target="_blank" className="flex gap-6">
+                    <Image src="/python-essentials-2.png" alt="Full Stack Certificate" width={100} height={100} />
+                    <section>
+                        <h2 className="text-2xl">Python Essential 2</h2>
+                        <h3 className="text-xl text-teal-700">Cisco - Course</h3>
+                    </section>
+                </Link>
             </section>
         </main>
     )
