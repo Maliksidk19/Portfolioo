@@ -20,6 +20,9 @@ const Skills = () => {
             <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">JavaScript</span>
             <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">TypeScript</span>
             <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">React</span>
+            <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">TailwindCSS</span>
+            <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">Bootstrap</span>
+            <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">NextJS</span>
           </section>
         </Disclosure.Panel>
       </Disclosure>
@@ -37,6 +40,8 @@ const Skills = () => {
             <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">MongoDB</span>
             <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">SQL</span>
             <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">PostgreSQL</span>
+            <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">Python</span>
+            <span className="border-2 border-teal-700 text-2xl p-2 px-4 rounded-md text-center">Django</span>
           </section>
         </Disclosure.Panel>
       </Disclosure>
@@ -55,6 +60,7 @@ const Skills = () => {
             <span className="border border-teal-700 text-2xl p-2 px-4 rounded-md text-center">Data Structure</span>
             <span className="border border-teal-700 text-2xl p-2 px-4 rounded-md text-center">Algorithms</span>
             <span className="border border-teal-700 text-2xl p-2 px-4 rounded-md text-center">Networking</span>
+            <span className="border border-teal-700 text-2xl p-2 px-4 rounded-md text-center">Headless UI</span>
           </section>
         </Disclosure.Panel>
       </Disclosure>
