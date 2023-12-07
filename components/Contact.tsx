@@ -4,7 +4,7 @@ import Link from "next/link";
 const Contact = () => {
   return (
     <section className="flex flex-col justify-center items-center gap-3">
-      <h1 className="text-3xl text-center">Let's Connect</h1>
+      <h1 className="text-3xl text-center">Let&apos;s Connect</h1>
       <p className="text-xl text-center">I am always open to work on your project, improve your online presence or help with your business to grow online</p>
       <button><Link href="mailto:malik.sid1980@gmail.com" className="flex my-5 items-center gap-2 bg-teal-700 text-white px-5 py-3 rounded-lg">Contact Now <FiSend /></Link></button>
       <section className="flex gap-6">
